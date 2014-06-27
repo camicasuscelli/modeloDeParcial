@@ -52,7 +52,3 @@ void cambioabase16 (int fnumero)
         printf ("%c", (fnumero%16)-10+65);
     else printf ("%d", fnumero%16);
 };
-
-
-
-
